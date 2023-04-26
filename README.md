@@ -2,7 +2,8 @@
 
 ## Author: Khaled Badran
 
-https://user-images.githubusercontent.com/78341798/234667703-7edb7f62-7261-4572-b197-03b0b9707d92.mp4
+![snake-game-overview (2)](https://user-images.githubusercontent.com/78341798/234670868-894ba39c-c413-441f-8220-9e30aeefc3c3.gif)
+
 
 This project is an implementation of the classic Snake game in Python Pygame, with a twist: it's designed to be an ASMR experience, providing a relaxing and calming atmosphere for the viewer.
 
