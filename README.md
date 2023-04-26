@@ -7,7 +7,7 @@
 
 This project is an implementation of the classic Snake game in Python Pygame, with a twist: it's designed to be an ASMR experience, providing a relaxing and calming atmosphere for the viewer.
 
-To experience the full effect of this ASMR coding project, check out the accompanying YouTube video [here]([INSERT_YOUTUBE_LINK_HERE](https://www.youtube.com/watch?v=Fd7PpBRQhNY&ab_channel=KhaledBadran)). Sit back, relax, and enjoy the satisfying sounds of coding while it is raining, without any distracting commentary.
+To experience the full effect of this ASMR coding project, check out the accompanying YouTube video [here](https://www.youtube.com/watch?v=Fd7PpBRQhNY&ab_channel=KhaledBadran). Sit back, relax, and enjoy the satisfying sounds of coding while it is raining, without any distracting commentary.
 
 ## Requirements
 
